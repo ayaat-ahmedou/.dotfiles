@@ -18,4 +18,4 @@ Then:
 
 ~ stow .
 
-~ bash setup.sh
+~ bash setup_script.sh
