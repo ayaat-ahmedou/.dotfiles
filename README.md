@@ -19,3 +19,7 @@ Then:
 ~ stow .
 
 ~ bash setup_script.sh
+
+(for lsp-config.lua you might need to do this:
+-- you need to have NPM loaded for the TS LSP server, so ensure it it installed
+-- sudo apt install npm -y)
