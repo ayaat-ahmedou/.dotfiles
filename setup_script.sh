@@ -10,6 +10,7 @@ sudo apt upgrade -y
 sudo apt remove w3m -y
 sudo apt install gh -y
 sudo apt install stow -y
+sudo apt install nodejs npm -y
 
 # install neovim from source
 mkdir temp
